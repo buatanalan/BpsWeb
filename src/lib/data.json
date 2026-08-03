@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nama": "Aditya Pratama",
+    "nik": "3204011204950001",
+    "no_kk": "3204011208150001",
+    "alamat_ktp": "Jl. Diponegoro No. 22, RT 03/RW 04, Kel. Citarum, Kec. Bandung Wetan, Bandung",
+    "desil": 3
+  },
+  {
+    "id": 2,
+    "nama": "Siti Rahmawati",
+    "nik": "3204022508970002",
+    "no_kk": "3204021405160002",
+    "alamat_ktp": "Jl. Asia Afrika No. 45, Kel. Braga, Kec. Sumur Bandung, Bandung",
+    "desil": 2
+  },
+  {
+    "id": 3,
+    "nama": "Aditya Pratama",
+    "nik": "3204031509930003",
+    "no_kk": "3204032809170003",
+    "alamat_ktp": "Jl. Gatot Subroto No. 102, Kel. Samoja, Kec. Batununggal, Bandung",
+    "desil": 4
+  },
+  {
+    "id": 4,
+    "nama": "Budi Setiawan",
+    "nik": "3204041111920004",
+    "no_kk": "3204041112180004",
+    "alamat_ktp": "Jl. Soekarno-Hatta No. 543, Kel. Sekejati, Kec. Buahbatu, Bandung",
+    "desil": 1
+  },
+  {
+    "id": 5,
+    "nama": "Siti Rahmawati",
+    "nik": "3204052203940005",
+    "no_kk": "3204052203190005",
+    "alamat_ktp": "Jl. Dago No. 88, Kel. Coblong, Kec. Coblong, Bandung",
+    "desil": 3
+  },
+  {
+    "id": 6,
+    "nama": "Dewi Lestari",
+    "nik": "3204060812960006",
+    "no_kk": "3204060812200006",
+    "alamat_ktp": "Jl. Setiabudhi No. 229, Kel. Gegerkalong, Kec. Sukasari, Bandung",
+    "desil": 5
+  },
+  {
+    "id": 7,
+    "nama": "Budi Setiawan",
+    "nik": "3204071407910007",
+    "no_kk": "3204071407210007",
+    "alamat_ktp": "Jl. Pasir Kaliki No. 121, Kel. Arjuna, Kec. Cicendo, Bandung",
+    "desil": 2
+  },
+  {
+    "id": 8,
+    "nama": "Dewi Lestari",
+    "nik": "3204081905950008",
+    "no_kk": "3204081905220008",
+    "alamat_ktp": "Jl. Riau No. 18, Kel. Cihapit, Kec. Bandung Wetan, Bandung",
+    "desil": 4
+  },
+  {
+    "id": 9,
+    "nama": "Rian Hidayat",
+    "nik": "3204093010900009",
+    "no_kk": "3204093010230009",
+    "alamat_ktp": "Jl. Kopo No. 345, Kel. Margasuka, Kec. Babakan Ciparay, Bandung",
+    "desil": 1
+  },
+  {
+    "id": 10,
+    "nama": "Rian Hidayat",
+    "nik": "3204100101980010",
+    "no_kk": "3204100101240010",
+    "alamat_ktp": "Jl. Buahbatu No. 201, Kel. Turangga, Kec. Lengkong, Bandung",
+    "desil": 2
+  }
+]
