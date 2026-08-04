@@ -44,3 +44,7 @@ next-env.d.ts
 *.db
 *.sqlite
 *.sqlite3
+
+# RSA Keys
+/keys
+
